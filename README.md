@@ -7,6 +7,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehhhul/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -28,6 +29,7 @@ My Leetcode progress is being stored here.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -37,6 +39,7 @@ My Leetcode progress is being stored here.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
