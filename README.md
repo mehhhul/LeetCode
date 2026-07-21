@@ -21,6 +21,7 @@ My Leetcode progress is being stored here.
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@ My Leetcode progress is being stored here.
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
@@ -58,4 +60,8 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
