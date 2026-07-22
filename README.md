@@ -11,6 +11,7 @@ My Leetcode progress is being stored here.
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ My Leetcode progress is being stored here.
 | [0001-two-sum](https://github.com/mehhhul/LeetCode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
 ## Math
 |  |
 | ------- |
