@@ -12,6 +12,7 @@ My Leetcode progress is being stored here.
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
+| [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -66,4 +67,9 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
+| [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
