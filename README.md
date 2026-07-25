@@ -25,6 +25,7 @@ My Leetcode progress is being stored here.
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/mehhhul/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
