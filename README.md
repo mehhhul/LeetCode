@@ -30,6 +30,7 @@ My Leetcode progress is being stored here.
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/mehhhul/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Bit Manipulation
 |  |
 | ------- |
