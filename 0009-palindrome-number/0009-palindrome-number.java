@@ -5,7 +5,8 @@ class Solution {
         else{
             int sum=0,m=x;
             while(x!=0){
-                sum=(sum*10)+(x%10);
+                int r=x%10;
+                sum=sum*10+r;
                 x/=10;
             }
             if(m==sum)  return true;
