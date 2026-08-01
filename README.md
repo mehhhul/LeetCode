@@ -7,6 +7,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehhhul/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
@@ -89,4 +90,8 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mehhhul/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
