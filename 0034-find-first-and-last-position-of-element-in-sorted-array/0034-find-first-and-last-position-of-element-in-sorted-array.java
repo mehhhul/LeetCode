@@ -3,7 +3,6 @@ class Solution {
         int left = binary(nums,target,true);
         int right = binary(nums,target,false);
         return new int[] {left,right};
-
     }
     private int binary(int[] nums,int target,boolean bias){
         int left=0,right=nums.length-1,i=-1;
