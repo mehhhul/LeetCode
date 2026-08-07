@@ -50,6 +50,7 @@ My Leetcode progress is being stored here.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehhhul/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -85,6 +86,7 @@ My Leetcode progress is being stored here.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehhhul/LeetCode/tree/master/0020-valid-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Linked List
 |  |
@@ -103,4 +105,8 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mehhhul/LeetCode/tree/master/0011-container-with-most-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mehhhul/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
