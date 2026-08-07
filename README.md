@@ -15,6 +15,7 @@ My Leetcode progress is being stored here.
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -26,6 +27,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0001-two-sum](https://github.com/mehhhul/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
@@ -53,6 +55,7 @@ My Leetcode progress is being stored here.
 | [0061-rotate-list](https://github.com/mehhhul/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mehhhul/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -69,6 +72,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +122,7 @@ My Leetcode progress is being stored here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
