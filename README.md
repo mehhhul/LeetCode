@@ -28,6 +28,7 @@ My Leetcode progress is being stored here.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mehhhul/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mehhhul/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/mehhhul/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
