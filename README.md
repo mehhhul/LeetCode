@@ -32,6 +32,7 @@ My Leetcode progress is being stored here.
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/mehhhul/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Leetcode progress is being stored here.
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/mehhhul/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
