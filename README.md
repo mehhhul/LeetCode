@@ -21,6 +21,7 @@ My Leetcode progress is being stored here.
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mehhhul/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/mehhhul/LeetCode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -44,6 +45,7 @@ My Leetcode progress is being stored here.
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/mehhhul/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Bit Manipulation
@@ -97,6 +99,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
+| [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -142,4 +145,16 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/mehhhul/LeetCode/tree/master/0867-transpose-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
