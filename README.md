@@ -24,6 +24,7 @@ My Leetcode progress is being stored here.
 | [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ My Leetcode progress is being stored here.
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,4 +161,12 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
