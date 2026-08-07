@@ -46,6 +46,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mehhhul/LeetCode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/mehhhul/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mehhhul/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mehhhul/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/mehhhul/LeetCode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
