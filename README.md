@@ -32,6 +32,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0007-reverse-integer](https://github.com/mehhhul/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mehhhul/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/mehhhul/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/mehhhul/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mehhhul/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mehhhul/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/mehhhul/LeetCode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
