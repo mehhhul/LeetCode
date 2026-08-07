@@ -91,10 +91,12 @@ My Leetcode progress is being stored here.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mehhhul/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mehhhul/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mehhhul/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mehhhul/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Binary Search
 |  |
