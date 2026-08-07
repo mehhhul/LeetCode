@@ -53,6 +53,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehhhul/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/mehhhul/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
