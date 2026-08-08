@@ -20,6 +20,7 @@ My Leetcode progress is being stored here.
 | [0575-distribute-candies](https://github.com/mehhhul/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mehhhul/LeetCode/tree/master/0682-baseball-game) |
+| [0821-shortest-distance-to-a-character](https://github.com/mehhhul/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0867-transpose-matrix](https://github.com/mehhhul/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mehhhul/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/mehhhul/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -64,6 +65,7 @@ My Leetcode progress is being stored here.
 | [0344-reverse-string](https://github.com/mehhhul/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/mehhhul/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -75,6 +77,7 @@ My Leetcode progress is being stored here.
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/mehhhul/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/mehhhul/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mehhhul/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
