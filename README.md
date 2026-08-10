@@ -12,6 +12,7 @@ My Leetcode progress is being stored here.
 | [0033-search-in-rotated-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
@@ -44,6 +45,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0007-reverse-integer](https://github.com/mehhhul/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mehhhul/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mehhhul/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/mehhhul/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
@@ -156,6 +158,7 @@ My Leetcode progress is being stored here.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/mehhhul/LeetCode/tree/master/0867-transpose-matrix) |
 ## Minimax
 |  |
