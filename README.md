@@ -14,6 +14,7 @@ My Leetcode progress is being stored here.
 | [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ My Leetcode progress is being stored here.
 | [0027-remove-element](https://github.com/mehhhul/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/mehhhul/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/mehhhul/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mehhhul/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -87,6 +89,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
