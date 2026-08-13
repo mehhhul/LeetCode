@@ -18,6 +18,7 @@ My Leetcode progress is being stored here.
 | [0088-merge-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -36,6 +37,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehhhul/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -92,6 +94,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -112,6 +115,7 @@ My Leetcode progress is being stored here.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -185,4 +189,12 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
