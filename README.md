@@ -13,6 +13,7 @@ My Leetcode progress is being stored here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/mehhhul/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mehhhul/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mehhhul/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -125,6 +126,7 @@ My Leetcode progress is being stored here.
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mehhhul/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/mehhhul/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/mehhhul/LeetCode/tree/master/0867-transpose-matrix) |
@@ -168,6 +170,7 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/mehhhul/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mehhhul/LeetCode/tree/master/0867-transpose-matrix) |
 ## Minimax
 |  |
