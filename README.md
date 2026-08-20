@@ -53,6 +53,7 @@ My Leetcode progress is being stored here.
 | [0048-rotate-image](https://github.com/mehhhul/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mehhhul/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mehhhul/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/mehhhul/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
@@ -156,6 +157,7 @@ My Leetcode progress is being stored here.
 | [0033-search-in-rotated-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mehhhul/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
@@ -200,4 +202,8 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
