@@ -34,6 +34,7 @@ My Leetcode progress is being stored here.
 | [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mehhhul/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ My Leetcode progress is being stored here.
 | ------- |
 | [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mehhhul/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mehhhul/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ My Leetcode progress is being stored here.
 | [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mehhhul/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
