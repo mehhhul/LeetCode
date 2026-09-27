@@ -20,6 +20,7 @@ My Leetcode progress is being stored here.
 | [0118-pascals-triangle](https://github.com/mehhhul/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehhhul/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehhhul/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -56,6 +57,7 @@ My Leetcode progress is being stored here.
 | [0066-plus-one](https://github.com/mehhhul/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/mehhhul/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mehhhul/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehhhul/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,4 +211,24 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
