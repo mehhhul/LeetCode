@@ -35,6 +35,7 @@ My Leetcode progress is being stored here.
 | [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehhhul/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehhhul/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mehhhul/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ My Leetcode progress is being stored here.
 | [0977-squares-of-a-sorted-array](https://github.com/mehhhul/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mehhhul/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehhhul/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehhhul/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,11 +167,13 @@ My Leetcode progress is being stored here.
 | [0069-sqrtx](https://github.com/mehhhul/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mehhhul/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehhhul/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehhhul/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mehhhul/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mehhhul/LeetCode/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehhhul/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -232,4 +236,12 @@ My Leetcode progress is being stored here.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mehhhul/LeetCode/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehhhul/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehhhul/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
